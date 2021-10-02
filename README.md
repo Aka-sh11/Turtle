@@ -33,3 +33,20 @@
 ### 8. IndianFlag
 
 ![](Output/IndianFlag.png)
+
+### 9. iron-man mask
+
+![](Output/IronMan.png)
+
+### 10. pikachu
+
+![](Output/Pikachu.png)
+
+### 10. SpiralDesign
+
+![](Output/SpiralDesign.png)
+
+### 11. stars 
+
+![](Output/Stars.png)
+
