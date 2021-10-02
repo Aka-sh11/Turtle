@@ -2,9 +2,11 @@ from turtle import *
 from time import sleep
 
 colormode(255)
-red=(234, 68, 53); green=(0, 172, 71); yellow=(255, 186, 0);
-blue=(66, 133, 244)
-r=120
+red = (234, 68, 53)
+green = (0, 172, 71)
+yellow = (255, 186, 0)
+blue = (66, 133, 244)
+r = 120
 speed(2)
 seth(-150)
 up()
@@ -60,7 +62,7 @@ seth(60)
 color(blue)
 down()
 begin_fill()
-circle(distance(0,0))
+circle(distance(0, 0))
 end_fill()
 ht()
 sleep(0.8)
