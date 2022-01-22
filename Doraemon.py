@@ -1,3 +1,6 @@
+%%time
+#Used to calculate total operation time
+
 from turtle import *
 
 
